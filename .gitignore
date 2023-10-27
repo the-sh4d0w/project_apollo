@@ -159,5 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# custom
+# custom; json file are very large and just store data
 .vscode/
+comics.json
+halo_novels.json
