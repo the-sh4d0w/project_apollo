@@ -161,5 +161,6 @@ cython_debug/
 
 # custom; json file are very large and just store data
 .vscode/
+logs/
 comics.json
 halo_novels.json
